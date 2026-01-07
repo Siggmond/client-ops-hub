@@ -1,5 +1,14 @@
 # ClientOps Hub
 
+[![License](https://img.shields.io/github/license/AhmadsaaD111/ClientOps_Hub)](./LICENSE)
+[![Top Language](https://img.shields.io/github/languages/top/AhmadsaaD111/ClientOps_Hub)](https://github.com/AhmadsaaD111/ClientOps_Hub)
+[![Last Commit](https://img.shields.io/github/last-commit/AhmadsaaD111/ClientOps_Hub)](https://github.com/AhmadsaaD111/ClientOps_Hub/commits)
+[![Repo Size](https://img.shields.io/github/repo-size/AhmadsaaD111/ClientOps_Hub)](https://github.com/AhmadsaaD111/ClientOps_Hub)
+[![Open Issues](https://img.shields.io/github/issues/AhmadsaaD111/ClientOps_Hub)](https://github.com/AhmadsaaD111/ClientOps_Hub/issues)
+[![Stars](https://img.shields.io/github/stars/AhmadsaaD111/ClientOps_Hub)](https://github.com/AhmadsaaD111/ClientOps_Hub/stargazers)
+
+
+
 ClientOps Hub is a small internal workspace for managing clients, leads, and invoices with an auditable change history. It’s designed for teams that want a clear operational view without adopting a full enterprise CRM.
 
 ## Features
