@@ -1,11 +1,11 @@
 # ClientOps Hub
 
-[![License](https://img.shields.io/github/license/AhmadsaaD111/ClientOps_Hub)](./LICENSE)
-[![Top Language](https://img.shields.io/github/languages/top/AhmadsaaD111/ClientOps_Hub)](https://github.com/AhmadsaaD111/ClientOps_Hub)
-[![Last Commit](https://img.shields.io/github/last-commit/AhmadsaaD111/ClientOps_Hub)](https://github.com/AhmadsaaD111/ClientOps_Hub/commits)
-[![Repo Size](https://img.shields.io/github/repo-size/AhmadsaaD111/ClientOps_Hub)](https://github.com/AhmadsaaD111/ClientOps_Hub)
-[![Open Issues](https://img.shields.io/github/issues/AhmadsaaD111/ClientOps_Hub)](https://github.com/AhmadsaaD111/ClientOps_Hub/issues)
-[![Stars](https://img.shields.io/github/stars/AhmadsaaD111/ClientOps_Hub)](https://github.com/AhmadsaaD111/ClientOps_Hub/stargazers)
+[![License](https://img.shields.io/github/license/Siggmond/client-ops-hub)](./LICENSE)
+[![Top Language](https://img.shields.io/github/languages/top/Siggmond/client-ops-hub)](https://github.com/Siggmond/client-ops-hub)
+[![Last Commit](https://img.shields.io/github/last-commit/Siggmond/client-ops-hub)](https://github.com/Siggmond/client-ops-hub/commits)
+[![Repo Size](https://img.shields.io/github/repo-size/Siggmond/client-ops-hub)](https://github.com/Siggmond/client-ops-hub)
+[![Open Issues](https://img.shields.io/github/issues/Siggmond/client-ops-hub)](https://github.com/Siggmond/client-ops-hub/issues)
+[![Stars](https://img.shields.io/github/stars/Siggmond/client-ops-hub)](https://github.com/Siggmond/client-ops-hub/stargazers)
 
 
 
